@@ -40,6 +40,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Acknowledgments
 
-* [Daniel]([https://twitter.com/Zaltsman]) for his constant encouragement
+* [Daniel](https://twitter.com/Zaltsman) for his constant encouragement
 * Elad Gill's Book: *[High Growth Handbook](http://growth.eladgil.com/)* for building a framework to follow
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com) for it's comittment to promoting open source projects
